@@ -1,0 +1,14 @@
+# basic options
+title: Blog
+auther: Me
+email: email@domain.com
+discription: the blog
+twitter_username: me
+github_username: me
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+
+##
